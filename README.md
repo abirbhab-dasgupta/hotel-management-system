@@ -5,10 +5,10 @@ The app is also authenticated by passport.
 
 
 ## To clone the project:
-``` bash
-https://github.com/abirbhab-dasgupta/hotel-management.git ```
+``` https://github.com/abirbhab-dasgupta/hotel-management.git ```
 
 
-** Install dependencies **
+
+## Install dependencies 
 ```bash
-npm install```
+npm install
